@@ -7,3 +7,8 @@ The main code to run the model is written in Julia and Python. The `scripts` and
 
 The `manuscript_diagrams` folder contains the data files and a jupyter notebook to reproduce the diagrams from the manuscript.
 
+
+For using julia, please refer to the [official website of Julia](https://julialang.org/downloads/). 
+
+
+The computational results presented have been achieved using the Vienna Scientific Cluster [VSC](https://vsc.ac.at/home/).
