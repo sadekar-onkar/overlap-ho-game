@@ -4,7 +4,7 @@ src_path = parent_dir * "/src/"
 dat_path = parent_dir * "/data/final_data"
 graph_path = parent_dir * "/data/graph_data"
 
-include(src_path * "HO_PRL_strategy.jl")
+include(src_path * "HO_PRL_bilayer.jl")
 
 
 ######################## CHECK THE END PARAMETER ALWAYS ############################

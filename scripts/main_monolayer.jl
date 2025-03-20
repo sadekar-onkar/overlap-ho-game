@@ -4,7 +4,7 @@ src_path = parent_dir * "/src/"
 dat_path = parent_dir * "/data/final_data"
 graph_path = parent_dir * "/data/graph_data"
 
-include(src_path * "HO_PRL_payoff.jl")
+include(src_path * "HO_PRL_monolayer.jl")
 
 using Revise
 using BenchmarkTools
